@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Jyosef Drei  👋</h1>
 
-<h3>🛡️ Aspiring Cyber Security Analyst</h3>
+<h3>🛡️ Aspiring IAM Analyst</h3>
 
 <p> BSc (Hons) Cyber Security graduate passionate about securing enterprise environments, analyzing network traffic, and mitigating infrastructure vulnerabilities. Building hands-on experience through continuous homelabs, technical documentation, and proactive threat analysis.</p>
 
