@@ -27,6 +27,6 @@
   </tr>
   <tr>
     <td><a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td><code>linkedin.com/in/yourprofile</code></td>
+    <td><code>https://www.linkedin.com/in/jyosefdreilozanes0629</code></td>
   </tr>
 </table>
