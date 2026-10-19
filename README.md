@@ -17,7 +17,7 @@
 - <b>Active Directory & Cloud Identity Project</b>
   - [DreiHotel Enterprise Lab: Active Driectory, Entra ID & Wazuh SIEM](https://github.com/DreiTech24/dreihotel_enterprise_lab.git)
     
-  - Youtube Link▶️ <a href="LINK_NG_YOUTUBE_VIDEO_MO_DITO" target="_blank">Watch Full Project Demonstration on YouTube</a>
+  - Youtube Link▶️ <a href="https://youtu.be/708ixprGRDA" target="_blank">Watch Full Project Demonstration on YouTube</a>
 
 <h2>🤳 Connect with me:</h2>
 
