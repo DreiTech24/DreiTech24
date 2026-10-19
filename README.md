@@ -16,6 +16,7 @@
 
 - <b>Enterprise Infrastructure & Identity Management</b>
   - [DreiHotel: Hybrid Enterprise identity (AD / Entra ID) & SIEM Monitoring Lab](#)
+    
   - Youtube Link▶️ <a href="LINK_NG_YOUTUBE_VIDEO_MO_DITO" target="_blank">Watch Full Project Demonstration on YouTube</a>
 
 <h2>🤳 Connect with me:</h2>
