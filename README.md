@@ -9,13 +9,13 @@
 - <b>☁️ Cloud & Identity:</b> Microsoft Entra ID, Active Directory, RBAC, Multi-Factor Authentication (MFA)
 - <b>🛠️ SIEM & Monitoring:</b> Splunk, Elastic Security, Wazuh
 - <b>🌐 Network Analysis:</b> pfSense, Wireshark, Nmap, Cisco Packet Tracer
-- <b>🐧 Operating Systems:</b> Linux (Ubuntu/Kali), Windows Server 2022, Windows 11, Linux (Ubuntu / Kali)
+- <b>🐧 Operating Systems:</b> Windows Server 2022, Windows 11, Linux (Ubuntu / Kali)
 - <b>📜 Scripting:</b> Python, PowerShell (Basic)
 
 <h2>👨‍💻 Projects & Home Labs</h2>
 
-- <b>Enterprise Infrastructure & Identity Management</b>
-  - [DreiHotel: Hybrid Enterprise identity (AD / Entra ID) & SIEM Monitoring Lab](#)
+- <b>Active Directory & Cloud Identity Project</b>
+  - [DreiHotel Enterprise Lab: Active Driectory, Entra ID & Wazzuh SIEM](#)
     
   - Youtube Link▶️ <a href="LINK_NG_YOUTUBE_VIDEO_MO_DITO" target="_blank">Watch Full Project Demonstration on YouTube</a>
 
