@@ -6,15 +6,16 @@
 
 <h2>🧰 Technical Skills</h2>
 
+- <b>☁️ Cloud & Identity:</b> Microsoft Entra ID, Active Directory, RBAC, Multi-Factor Authentication (MFA)
 - <b>🛠️ SIEM & Monitoring:</b> Splunk, Elastic Security, Wazuh
-- <b>🌐 Network Analysis:</b> Wireshark, Nmap, Cisco Packet Tracer
-- <b>🐧 Operating Systems:</b> Linux (Ubuntu/Kali), Windows Server, Active Directory
+- <b>🌐 Network Analysis:</b> pfSense, Wireshark, Nmap, Cisco Packet Tracer
+- <b>🐧 Operating Systems:</b> Linux (Ubuntu/Kali), Windows Server 2022, Windows 11, Linux (Ubuntu / Kali)
 - <b>📜 Scripting:</b> Python, PowerShell (Basic)
 
 <h2>👨‍💻 Projects & Home Labs</h2>
 
 - <b>Enterprise Infrastructure & Identity Management</b>
-  - [DreiHotel: Active Directory & Network Environment Simulation](#)
+  - [DreiHotel: Hybrid Enterprise identity (AD / Entra ID) & SIEM Monitoring Lab](#)
 - <b>Threat Intelligence & Vulnerability Analysis</b>
   - [Critical Infrastructure Exploitation: 2015 Ukraine Power Grid Attack](#)
 
