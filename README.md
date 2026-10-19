@@ -6,7 +6,7 @@
 
 <h2>🧰 Technical Skills</h2>
 
-- <b>🛠️ SIEM & Monitoring:</b> Splunk, Elastic Security
+- <b>🛠️ SIEM & Monitoring:</b> Splunk, Elastic Security, Wazuh
 - <b>🌐 Network Analysis:</b> Wireshark, Nmap, Cisco Packet Tracer
 - <b>🐧 Operating Systems:</b> Linux (Ubuntu/Kali), Windows Server, Active Directory
 - <b>📜 Scripting:</b> Python, PowerShell (Basic)
