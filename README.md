@@ -16,18 +16,17 @@
 
 - <b>Enterprise Infrastructure & Identity Management</b>
   - [DreiHotel: Hybrid Enterprise identity (AD / Entra ID) & SIEM Monitoring Lab](#)
-- <b>Threat Intelligence & Vulnerability Analysis</b>
-  - [Critical Infrastructure Exploitation: 2015 Ukraine Power Grid Attack](#)
+  - ▶️ <a href="LINK_NG_YOUTUBE_VIDEO_MO_DITO" target="_blank">Watch Full Project Demonstration on YouTube</a>
 
 <h2>🤳 Connect with me:</h2>
 
 <table>
   <tr>
     <td><a href="mailto:jyosefdrei8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-    <td><code>jyosefdrei19@gmail.com</code></td>
+    <td><code>jyosefdrei8@gmail.com</code></td>
   </tr>
   <tr>
-    <td><a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td><a href="https://www.linkedin.com/in/jyosefdreilozanes0629" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
     <td><code>https://www.linkedin.com/in/jyosefdreilozanes0629</code></td>
   </tr>
 </table>
