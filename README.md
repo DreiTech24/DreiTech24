@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td><a href="mailto:jyosefdrei19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td><a href="mailto:jyosefdrei8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
     <td><code>jyosefdrei19@gmail.com</code></td>
   </tr>
   <tr>
